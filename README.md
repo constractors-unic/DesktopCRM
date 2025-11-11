@@ -1,4 +1,4 @@
-# Anzhela CRM - README
+# GYM CRM - README
 
 ## Overview
 Anzhela CRM is a Windows Forms-based CRM system tailored for educational centers and instructors. It allows the management of students, income (invoices), expenses (outvoices), reporting, and receipt printing.
